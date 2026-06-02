@@ -131,13 +131,6 @@ The dashboard was designed to provide business stakeholders with interactive ins
 * Revenue by Sales Channel
 * Monthly Revenue Trends
 
----
-
-
-
-## Outcome
-
-The project successfully delivers a scalable retail analytics solution that improves data quality, enables business intelligence reporting, and supports data-driven decision-making through interactive dashboards, dimensional modeling, and actionable business insights.
 
 ---
 
